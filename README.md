@@ -2,4 +2,4 @@
 
 - im always willing to learn new things
 
-- react.js, php, scss, c#, html
+- i know some : react.js, php, scss, c#, html, js 
