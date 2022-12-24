@@ -2,4 +2,4 @@
 
 - im always willing to learn new things
 
-- i know some : react.js, php, scss, c#, html, js, SQL and firestore
+- i'm competent in : react.js and .ts, php, scss, c#, html, js, ts, SQL and firestore
